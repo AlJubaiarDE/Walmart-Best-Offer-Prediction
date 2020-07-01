@@ -45,6 +45,10 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 Al Jubaiar
 ## Credits
 - [Udemy Machine Learning Course](https://www.udemy.com/course/machinelearning) - Helped me to learn Association rules practically .(Apriori, Eclat)
+- [Krish Naik](https://www.youtube.com/user/krishnaik06) - Helped me to learn the intitution deeply.
+
+
+
 
 
 

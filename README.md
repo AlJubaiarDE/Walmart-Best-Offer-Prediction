@@ -30,8 +30,7 @@ pip install -r requirements.txt
 - Seaborn
 ## Directory Tree 
 ```
-├── Machine Learning.ipynb
-├── Deep Learning.ipynb
+├── Buy THIS & Get THAT for free!!.ipynb
 └── README.md
 ```
 
@@ -45,6 +44,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 -|
 Al Jubaiar
 ## Credits
-- 
+- [Udemy Machine Learning Course](https://www.udemy.com/course/machinelearning) - Helped me to learn Association rules practically .(Apriori, Eclat)
+
 
 

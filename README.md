@@ -32,6 +32,8 @@ pip install -r requirements.txt
 ```
 ├── Buy THIS & Get THAT for free!!.ipynb
 └── README.md
+└── requirements.txt
+└── result.jpg
 ```
 
 ## Bug / Feature Request

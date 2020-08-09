@@ -2,7 +2,7 @@
 #### Buy "This", Get "That" Free
 
 
-<a><img src="https://miro.medium.com/max/1024/0*44Z8kiXbPcKiw_Rb" title="Buy one, get one free" ></a>
+![Screenshot](result.jpg)
 
 
 ## Overview

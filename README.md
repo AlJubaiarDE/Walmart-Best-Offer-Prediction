@@ -1,12 +1,12 @@
-# Walmart Best Offer Prediction
-#### Buy "This", Get "That" Free
+# Walmart Consumer Behaviour patterns
+
 
 
 ![Screenshot](result.jpg)
 
 
 ## Overview
-This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. This project focused on the Association rules to predict the best rules for Buy one, get one free offer. This project tries to find the best offer that will attract the customers more. The data can be found on Kaggle, to be exact : https://archive.ics.uci.edu/ml/datasets/online+retail
+This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. This project focused on the Association rules to predict the best rules for customer buying behaviour. This project tries to find the best deal that will attract the customers more. The data can be found on Kaggle, to be exact : https://archive.ics.uci.edu/ml/datasets/online+retail
 
 
 ## Motivation
